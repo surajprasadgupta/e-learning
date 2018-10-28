@@ -1,0 +1,99 @@
+#body{
+	margin:0px;
+	padding:0px;
+}
+.contenerbox{
+	
+	 margin-left:auto;
+   margin-right:auto;
+   width:100%;
+   height:100%; 
+}
+
+
+#navi{
+	clear:both;
+	padding: auto;
+position:inherit;
+ height:49px;
+   width:100%;
+   margin:0px auto;
+   	
+	margin-bottom:10px;
+	margin-top:8px;
+	border:2px solid gray;
+	border-radius:10px;
+}
+#navi li{
+	
+    float: left;
+
+}
+ ul {
+list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#00bfff;
+	border:1px solid #e7e7e7;
+}
+ li a {
+     display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	border-radius:3px;
+}
+li a:hover {
+    background-color:green;
+}
+
+.tops{
+	border:1px solid gray;
+height:130px;
+border-radius:5px;
+background-color:#e6f9ff;	
+}
+#logo{
+margin:10;
+ padding:10;
+ float:left;	
+	
+}
+
+.sidebar{
+border-right:2px solid gray;	
+margin:0;
+ padding:0;
+ float:left;
+ width:18.8%;
+ text-align:center;	
+  height:auto;
+ padding:0.8em;
+ 
+}
+
+.contener{
+	margin:0 0 0 21%;
+	padding:0.8em;
+
+	
+	 height:auto; 
+}
+.footer{
+	width:100%;background-color:block;
+	margin:0; padding:0; text-align:center;
+	border:4px solid gray;
+	float:left;height:80px;
+	
+}
+
+.post_body 
+{
+height:auto;
+width:100%;
+float:right;
+margin:1px;	
+
+}
